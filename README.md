@@ -15,10 +15,6 @@ A redesigned landing page was introduced with the expectation that it would impr
 - **Control group:** Existing (old) landing page  
 - **Treatment group:** Redesigned (new) landing page  
 
-The central business question is:
-
-> *Does the redesigned landing page lead to a statistically and practically meaningful improvement in conversion rate compared to the existing page?*
-
 ---
 
 ## Dataset
